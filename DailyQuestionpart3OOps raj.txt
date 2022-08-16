@@ -1,0 +1,71 @@
+1. What is oops stand for?
+   Object Oriented Programming.
+
+
+2. What is Polymorphism? explain types.
+
+   Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+
+3. what is the interface and example in selenium, java?
+
+   inheritance in java is a mechanism in which one object acquires all the properties and behavior of a parent object.
+
+4. what is abstract class and example?
+
+   A class that is declared with the abstract keyword is known as an abstract class in Java. It can have abstract and non-abstract methods (method with the body)
+
+5. Difference between multiple inheritance and multilevel inheritance
+
+   The key difference between Multiple and Multilevel Inheritance is that Multiple Inheritance is when a class inherits
+   from many base classes while Multilevel Inheritance is when a class inherits from a derived class, making that class a base class for a new class.
+
+
+6. Is multiple inheritances possible in java?
+   Multiple Inheritance is a feature of an object-oriented concept, where a class can inherit properties of more than one parent class. The problem occurs when there exist methods with the same signature in both the superclasses and subclass.
+   On calling the method, the compiler cannot determine which class method to be called and even on calling which class method gets the priority.
+ 
+7. What is the keyword for using inheritance?
+   The extends keyword indicates that you are making a new class that derives from an existing class.
+   The meaning of "extends" is to increase the functionality
+
+8. what is the keyword to connect interface and class
+   The keyword implements is used to implement any interface in our class. Class body: the class body starts with an opening brace {and ends with a closing brace}.
+   We can define instance variables, constructors, methods, nested classes and interfaces in the class body.
+
+9. what is the difference between class and interface
+
+   A class is a user-defined blueprint or prototype from which objects are created.
+   It represents the set of properties or methods that are common to all objects of one type. In general, class declarations can include these components.
+
+   Like a class, an interface can have methods and variables, but the methods declared in interface are by default abstract (only method signature, no body).   
+ 
+
+10. what is the difference between class and abstract class
+   Class:
+       Instance and static variables 
+
+       Instance and static block 
+
+       Concrete methods (Instance and static) 
+
+   Constructor 
+
+      Abstract class can contain the following members:
+
+      Instance and static variables 
+
+      Instance and static block 
+
+      Concrete methods (Instance and static) 
+
+     Abstract methods 
+
+     Constructor 
+
+  It is used for doing new concrete implementation.
+
+
+  Abstract class:
+  It is used for doing partial implementation.
+
+
